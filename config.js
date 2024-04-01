@@ -11,15 +11,15 @@ global.lann = 'apikeylu'
 
 /*============== NOMOR ==============*/
 global.info = {
-	nomorbot: '6281283516246',
-	nomorown: '6281283516246',
-	namebot: 'Assisten YuLa',
-	nameown: 'MaximusStore'
+	nomorbot: '',
+	nomorown: '',
+	namebot: 'ga tau kenapa ',
+	nameown: 'ga tau gw tu'
 }
 
 /*============== OWNER ==============*/
 global.owner = [
-['6281283516246', 'Maximus', 'true']
+['6281283516246', 'ga tau', 'true']
 ]
 global.mods = ['6281283516246']
 global.prems = ['6281283516246']
