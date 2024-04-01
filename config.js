@@ -12,17 +12,17 @@ global.lann = 'apikeylu'
 /*============== NOMOR ==============*/
 global.info = {
 	nomorbot: '',
-	nomorown: '',
+	nomorown: '6285766450735',
 	namebot: 'ga tau kenapa ',
 	nameown: 'ga tau gw tu'
 }
 
 /*============== OWNER ==============*/
 global.owner = [
-['6281283516246', 'ga tau', 'true']
+['6285766450735', 'ga tau', 'true']
 ]
-global.mods = ['6281283516246']
-global.prems = ['6281283516246']
+global.mods = ['6285766450735']
+global.prems = ['6285766450735']
 
 /*=============== API ===============*/
 global.APIs = {
@@ -41,10 +41,10 @@ global.APIKeys = {
 }
 
 /*============= WATERMARK =============*/
-global.wm = 'Maximus'
-global.author = '© ᴀssɪsᴛᴇɴ ʏᴜʟᴀ 💕'
-global.stickpack = 'Maximus'
-global.stickauth = '© ᴀssɪsᴛᴇɴ ʏᴜʟᴀ 💕'
+global.wm = 'ga tau gw tu'
+global.author = '© '
+global.stickpack = 'ga tau gw tu'
+global.stickauth = '© '
 global.multiplier = 38 // The higher, The harder levelup
 
 /*============== TEXT ==============*/
