@@ -13,8 +13,8 @@ global.lann = 'apikeylu'
 global.info = {
 	nomorbot: '',
 	nomorown: '6285766450735',
-	namebot: 'ga tau kenapa ',
-	nameown: 'ga tau gw tu'
+	namebot: 'Botzz +1',
+	nameown: 'botzz'
 }
 
 /*============== OWNER ==============*/
@@ -41,25 +41,25 @@ global.APIKeys = {
 }
 
 /*============= WATERMARK =============*/
-global.wm = 'ga tau gw tu'
-global.author = '© '
-global.stickpack = 'ga tau gw tu'
+global.wm = 'Botzz +1'
+global.author = '© Botzz +1'
+global.stickpack = 'Botzz +1'
 global.stickauth = '© '
 global.multiplier = 38 // The higher, The harder levelup
 
 /*============== TEXT ==============*/
-global.nameown = 'Maximus Store'
-global.waown = 'wa.me/6281283516246'
+global.nameown = 'own'
+global.waown = 'wa.me/6285766450735'
 global.mail = 'maximusstoreindonesia@gmail.com'
 global.fb = 'https://facebook.com/maximusstoreindonesia'
 global.ig = 'https://instagram.com/maximusstore.id'
-global.gcbot = 'https://chat.whatsapp.com/LZCnnSQFPkF3C6zrDcH5n8'
+global.gcbot = 'https://chat.whatsapp.com/CZ5FCfAXnqN3gvtnizRZg4'
 global.wait = '_*YuLa sedang memproses...*_'
 global.eror = '*Server YuLa down*'
 global.maxwarn = '2'
 global.qris = 'https://telegra.ph/file/f11ccd2ca8a5136aacfb3.jpg'
 global.thum = 'https://telegra.ph/file/754c704194ef0d84c6419.jpg'
-global.wm = '© ᴀssɪsᴛᴇɴ ʏᴜʟᴀ 💕'
+global.wm = '© Botzz +1'
 global.pricelist = '*LIMIT* kamu habis. kamu bisa order akses premium\n\n*PREMIUM USER PRICE LIST*\n\n*3 Day premium*\n- Harga: Rp. 5.000 IDR\n- ID Pesanan: 3day\n\n*7 Day premium*\n- Harga: Rp. 10.000 IDR\n- ID Pesanan: 7day\n\n*30 Day premium*\n- Harga: Rp. 15.000 IDR\n- ID Pesanan: 30day\n\n*60 Day premium*\n- Harga: Rp. 30.000 IDR\n- ID Pesanan: 60day\n\n\n*Example:* .premium <ID Pembayaran>\n*Example:* .premium 30day'
 
 /*=========== TYPE DOCUMENT ===========*/
