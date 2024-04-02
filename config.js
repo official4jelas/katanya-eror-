@@ -4,10 +4,10 @@ import { fileURLToPath } from 'url'
 
 
 /*========= GLOBAL APIKEY ==========*/
-global.btc = 'apikeylu'
-global.lolkey = 'apikeylu'
-global.rose = 'apikeylu'
-global.lann = 'apikeylu'
+global.btc = 'vBLRh3gb'
+global.lolkey = 'ed0663ae3db9638dc667582d'
+global.rose = 'yjlEx1fPcCCcuiRSFfKqL74sk658ZuWIPXvLXW148tpHC4JStUFEsfI0ppe5Mvjx'
+global.lann = 'oD4wgh58'
 
 /*============== NOMOR ==============*/
 global.info = {
@@ -19,7 +19,7 @@ global.info = {
 
 /*============== OWNER ==============*/
 global.owner = [
-['6285766450735', 'ga tau', 'true']
+['6285766450735', 'botzz', 'true']
 ]
 global.mods = ['6285766450735']
 global.prems = ['6285766450735']
@@ -35,9 +35,9 @@ global.APIs = {
 
 global.APIKeys = {
   'https://api.neoxr.eu.org': 'apikeylu',
-  'https://api.lolhuman.xyz': 'apikeylu',
-  'https://api.botcahx.eu.org': 'apikeylu',
-  'https://api.itsrose.life': 'memek-apikeylu',
+  'https://api.lolhuman.xyz': 'ed0663ae3db9638dc667582d',
+  'https://api.botcahx.eu.org': 'vBLRh3gb',
+  'https://api.itsrose.life': 'yjlEx1fPcCCcuiRSFfKqL74sk658ZuWIPXvLXW148tpHC4JStUFEsfI0ppe5Mvjx',
 }
 
 /*============= WATERMARK =============*/
@@ -56,7 +56,7 @@ global.ig = 'https://instagram.com/maximusstore.id'
 global.gcbot = 'https://chat.whatsapp.com/CZ5FCfAXnqN3gvtnizRZg4'
 global.wait = '_*YuLa sedang memproses...*_'
 global.eror = '*Server YuLa down*'
-global.maxwarn = '2'
+global.maxwarn = '1'
 global.qris = 'https://telegra.ph/file/f11ccd2ca8a5136aacfb3.jpg'
 global.thum = 'https://telegra.ph/file/754c704194ef0d84c6419.jpg'
 global.wm = '© Botzz +1'
